@@ -174,7 +174,7 @@ header {
 .nav__link {
     color: inherit;
     font-weight: var(--fw-bold);
-    font-size: var(--fs-h2);
+    font-size: var(--fs-h3);
     text-decoration: none;
 }
 
@@ -477,4 +477,9 @@ header {
     max-width: 600px;
     margin-left: auto;
     margin-right: auto;
+}
+
+.thunder{
+    display: flex;
+    justify-content: center;
 }
